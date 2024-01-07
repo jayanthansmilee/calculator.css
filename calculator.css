@@ -1,0 +1,63 @@
+  @import url('https://fonts.googleapis.com/css2?family=Actor&display=swap');
+
+    table{
+ height:320px;
+ width:250px;
+flex-shrink: 0;
+background: #9DA5C1;
+padding-left: 2.5px;
+font-family: 'Actor', sans-serif;
+margin-top: 15%;
+margin-bottom: 15%;
+border:solid rgb(90, 88, 88);
+border: size 0.01em;
+    }
+    label{
+        font-family: 'Actor', sans-serif;
+        font-size: 19px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+color:white;
+    }
+    input{
+    padding-left: -11%;
+        height:1.05cm;
+        border-radius:10px;
+    }
+    button{
+     width:55px;
+     height:50px;
+     border-radius:10px;
+flex-shrink: 0;
+background: #FFF;
+border-color:#9DA5C1;
+font-family: 'Actor', sans-serif;
+font-size: 30px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+
+    }
+    button:hover{
+        background-color: #6c738a;
+        color:whitesmoke;
+        font-family: 'Actor', sans-serif;
+        font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+    input{
+background: #F5F5F5;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+font-family: 'Actor', sans-serif;
+    }
+    table{
+        border-radius: 15px;
+    }
